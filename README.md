@@ -1,6 +1,7 @@
 # 2024_ESW_whitebox
 <div align="center">
   <img src="image/logo.jpg" alt="프로젝트 로고" width="25%"/>
+  <img src="image/logo.jpg" alt="프로젝트 로고" width="25%"/>
 </div>
 
 # 프로젝트 개요
