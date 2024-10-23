@@ -78,4 +78,8 @@
 
 ### Whitebox App
 
+<process1>
+firebase reaitime database를 통해, 블랙박스에서 감지한 앞차량의 번호판 데이터를 가져오고, 그 번호판에 해당하는 차량과 p2p 방식으로 연결되어, 앞 차량의 블랙박스 데이터를 스트리밍한다. 
 
+<process2>
+firebase realtime database를 바탕으로, 현재 차량과 보행자의 좌표 데이터를 수신하고, 이를 통해 운전자에게 visualization 한다. 이를 통해 운전자는 현재 차량의 위치에 대해 보행자가 얼마나 가까이 있는지 실시간으로 파악할 수 있다. 
