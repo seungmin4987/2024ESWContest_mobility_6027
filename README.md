@@ -1,4 +1,4 @@
-# 2024_ESW_whitebox
+# 2024_ESW_whitebox ( V2X 통신을 활용한 차량의 사각지대 예방 솔루션 )
 <div align="center">
   <img src="image/logo.jpg" alt="프로젝트 로고" width="25%"/>
 </div>
