@@ -52,6 +52,8 @@
                                     ├── RetrofitService.java
                                     └── VehicleListActivity.java
 
+```
+
 ## 프로세스 설명
 
 ### Process 1
