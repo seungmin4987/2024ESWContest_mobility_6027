@@ -99,7 +99,7 @@
 
 <div align="center">
   <img src="image/img2.jpg" alt="작품사진2" width="70%"/>
-  <img src="image/img1.jpg" alt="작품사진1" width="35%"/>
+  <img src="image/img1.jpg" alt="작품사진1" width="70%"/>
 </div>
 
 # 시연 영상
