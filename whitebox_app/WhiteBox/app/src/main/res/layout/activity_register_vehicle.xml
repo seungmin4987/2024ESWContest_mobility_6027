@@ -1,0 +1,48 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="16dp"
+    android:gravity="center">
+
+    <!-- 차량번호 입력 필드 -->
+    <EditText
+        android:id="@+id/vehicle_number_input"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="예) 111가1111"
+        android:textSize="18sp"
+        android:inputType="text" />
+
+    <TextView
+        android:id="@+id/error_message"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text=""
+        android:textColor="@android:color/holo_red_dark"
+        android:textSize="16sp"
+        android:visibility="visible"
+        android:layout_marginTop="8dp" />
+
+    <Button
+        android:id="@+id/register_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="등록"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/rounded_button"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp" />
+
+    <Button
+        android:id="@+id/back_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center_horizontal"
+        android:text="Back"
+        android:textColor="#FFFFFF"
+        android:background="@drawable/rounded_button"
+        android:textSize="16sp"
+        android:layout_marginTop="16dp" />
+</LinearLayout>
