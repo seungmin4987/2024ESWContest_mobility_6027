@@ -24,7 +24,7 @@
 - **WebRTC 시그널링 서버**: WebRTC 클라이언트 간에 SDP와 ICE 정보를 교환하여 P2P 연결을 설정하는 역할. 각 클라이언트를 세션에 연결하고, 필요한 메시지를 중계해 영상/오디오 전송을 위한 P2P 통신을 가능하게 한다.
 
 <div align="center">
-  <img src="image/flow1.png" alt="프로세스1 플로우 차트" width="70%"/>
+  <img src="image/flow1.png" alt="프로세스1 플로우 차트" width="85%"/>
 </div>
 
 ### Process 2 < Yolov5 + sort 를 이용한 보행자 트래킹 > 
@@ -35,7 +35,7 @@
 - **objsort.py**: 물체를 트래킹 하는 SORT의 핵심 모듈. 칼만 필터와 IOU(Intersection over Union) 알고리즘을 이용해서, 다수의 객체를 트래킹하고, 가장 유사한 객체끼리 연결하는 방식.
 
 <div align="center">
-  <img src="image/flow2.png" alt="프로세스2 플로우 차트" width="70%"/>
+  <img src="image/flow2.png" alt="프로세스2 플로우 차트" width="85%"/>
 </div>
 
 ## 어플리케이션 설명
