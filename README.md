@@ -74,20 +74,14 @@
 │   └── objsort.py
 ├── README.md
 └── whitebox_app
-    └── WhiteBox
-        └── app
-            └── src
-                └── main
-                    └── java
-                        └── io
-                            └── antmedia
-                                └── mywebrtcstreamingapp
-                                    ├── MainActivity.java
-                                    ├── PlateNumbersResponse.java
-                                    ├── RegisterVehicleActivity.java
-                                    ├── RetrofitClient.java
-                                    ├── RetrofitService.java
-                                    └── VehicleListActivity.java
+    └── WhiteBox/app/src/main/java/io/antmedia/mywebrtcstreamingapp
+        ├── MainActivity.java
+        ├── PlateNumbersResponse.java
+        ├── RegisterVehicleActivity.java
+        ├── RetrofitClient.java
+        ├── RetrofitService.java
+        └── VehicleListActivity.java
+
 
 ```
 
