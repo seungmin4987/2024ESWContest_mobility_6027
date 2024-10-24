@@ -63,7 +63,7 @@
 .
 ├── process1
 │   ├── Hardware
-│   │   └── Hardware.ino
+│   │   └── sensor_and_control.ino
 │   ├── plate_recognition.py
 │   ├── plot_car_point.py
 │   ├── send_plate_number_to_firebase.py
@@ -82,7 +82,7 @@
 ├── process2
 │   ├── flag.py
 │   ├── Hardware
-│   │   └── Hardware.ino
+│   │   └── ledwarning.ino
 │   ├── main.py
 │   └── objsort.py
 ├── README.md
